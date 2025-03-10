@@ -1,0 +1,49 @@
+# Deploying the Opentelemetry App As per documentation
+
+This guide explains how to install and run OpenTelemetry components using Docker Compose, following the official documentation. This setup is intended for demonstration and learning purposes.
+
+## Table of Contents
+1. [Prerequisites](#prerequisites)
+2. [Installing the App](#installing-the-app)
+3. [Accessing from Browser](#accessing-from-browser)
+
+
+## Prerequisites
+
+Before you begin, make sure you have the necessary tools installed on your Ubuntu system.
+
+### 1. Install Make
+Make is a build automation tool required for some build processes. Install it using:
+```sh
+sudo apt install make
+```
+![Install make](assets/ss_02.png)
+
+### 2. Install Docker
+devops-assets\opentelemetry
+```sh
+sudo snap install docker
+```
+![Description of Image](assets/ss_02.png)
+
+
+### 3. Installation Steps for Docker Compose
+ - 1. Download the Latest Docker Compose Binary
+
+ ```sh
+ sudo curl -SL https://github.com/docker/compose/releases/latest/download/docker-compose-linux-x86_64 -o /usr/local/bin/docker-compose
+ ```
+
+ - 2. Set Executable Permissions
+
+ ```sh
+ sudo chmod +x /usr/local/bin/docker-compose
+ ```
+
+ - 3. Verify the Installation
+
+```sh
+docker-compose version
+```
+
+
