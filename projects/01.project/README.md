@@ -3,3 +3,5 @@
 ## [Source code](https://github.com/suriya1776/microservices-demo/tree/main)
 
 Step 1 - [CICD with github actions](01.md)
+
+Step 2 - [Static code scan using sonarqube](02.md)
