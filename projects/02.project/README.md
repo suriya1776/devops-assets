@@ -63,9 +63,8 @@ Scanning container images for security vulnerabilities before deployment.
 ✅ **[Step 4 - Deployment in AKS Cluster](04.md)** 🚀  
 Deploying containerized applications to a **two-node Azure AKS cluster** for scalability and resilience.
 
-🔹 **Step 5** - [📊 Monitoring with Azure monitor](05.md)
-
-- Set up Azure monitor for and cluster analysis and log visualization.
+🔹 **Step 5 - [📊 Monitoring with Azure](05.md)**🚀 
+Set up Azure monitor for and cluster analysis and log visualization.
 
 📊 **Ensuring security, automation, and monitoring in every step of the CI/CD pipeline!** 💡
 
