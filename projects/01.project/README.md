@@ -4,6 +4,8 @@
 
 This project implements a **CI/CD pipeline** to deploy applications on **Azure Kubernetes Service (AKS)** using **Terraform**, while monitoring the cluster and applications with **Prometheus** and **Grafana**.
 
+![Project architecture](assets/main_gif.gif)
+
 ## 🎯 Key Components
 
 1. **Version Control (GitHub/GitLab)** 📂
