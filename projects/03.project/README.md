@@ -1,0 +1,1 @@
+![Project architecture](assets/main_gif.gif)
